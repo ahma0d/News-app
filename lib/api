@@ -1,0 +1,269 @@
+https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=65b7f6fa1be24e5888e66cf3e31a4e12
+
+
+{
+"status": "ok",
+"totalResults": 69,
+-"articles": [
+-{
+-"source": {
+"id": "usa-today",
+"name": "USA Today"
+},
+"author": "Elsie Boskamp, Jon Winkler and Jennifer Ernst Beaudry, USA TODAY",
+"title": "Amazon October Prime Day 2022: Shop early Black Friday deals now - USA TODAY",
+"description": "Amazon's October Prime Day sale is in full swing. Start your holiday shopping with early Black Friday deals on Apple, Ninja, LG and more.",
+"url": "https://www.usatoday.com/story/money/reviewed/2022/10/12/best-amazon-prime-day-deals-october-2022-black-friday-deals/10473406002/",
+"urlToImage": "https://www.gannett-cdn.com/presto/2022/10/11/USAT/6069c42f-7452-4006-93ba-b1a1e1f9416c-20221005_AmazonPrimeDay2_Hero1.4.png?auto=webp&crop=2987,1680,x12,y0&format=pjpg&width=1200",
+"publishedAt": "2022-10-12T10:31:55Z",
+"content": "— Recommendations are independently chosen by Reviewed’s editors. Purchases you make through our links may earn us a commission.\r\nGet ready to add to cart: Amazon's October Prime Day is back for a se… [+10786 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "Tanaya Macheel",
+"title": "Stock futures rise ahead of key inflation data, Fed minutes - CNBC",
+"description": "On Tuesday, the S&P 500 and Nasdaq Composite posted their fifth straight day of losses.",
+"url": "https://www.cnbc.com/2022/10/11/stock-market-futures-open-to-close-news.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/107060925-1652458971966-2022-05-13T143116Z_1096964027_RC2E6U96V7N5_RTRMADP_3_USA-STOCKS.JPG?v=1665525807&w=1920&h=1080",
+"publishedAt": "2022-10-12T10:28:00Z",
+"content": "Stock futures rose Wednesday as investors awaited the latest inflation numbers and the minutes from the Federal Reserve's latest meeting.\r\nFutures tied to the Dow Jones Industrial Average added 208 p… [+1555 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "Jenni Reid",
+"title": "Further 20% fall in U.S. stocks ‘certainly possible,’ says IMF director - CNBC",
+"description": "Tobias Adrian told CNBC the market sell-off had been driven by higher interest rates so far, but a collapse in sentiment could see equities tumble.",
+"url": "https://www.cnbc.com/2022/10/12/further-20percent-fall-in-us-stocks-certainly-possible-imf-director.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/107085761-1657214001195-gettyimages-1241573699-US_STOCKS.jpeg?v=1665561885&w=1920&h=1080",
+"publishedAt": "2022-10-12T08:04:45Z",
+"content": "A shift in investor sentiment could see a further 20% downside for U.S. stock markets, according to the International Monetary Fund's director of monetary and capital markets.\r\nIMF research found tha… [+2691 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Fox Business"
+},
+"author": "Ken Martin",
+"title": "Intel to cut thousands of Jobs as PC demand slows: report - Fox Business",
+"description": "Intel may cut a large amount of jobs this month as the semiconductor manufacturer deals with PC demand slowdown. The company's third-quarter earnings report is due out this month.",
+"url": "https://www.foxbusiness.com/technology/intel-cut-thousands-jobs-pc-demand-slows-report",
+"urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/12/0/0/Intel-Semiconductors.jpg?ve=1&tl=1",
+"publishedAt": "2022-10-12T07:48:28Z",
+"content": "The job axe may soon be coming down at Intel.\r\nThe semiconductor manufacturer is reportedly planning a major reduction in its workforce, as the company looks to cut costs and deal with a slowdown in … [+2526 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "Elliot Smith, Holly Ellyatt",
+"title": "European markets slightly lower as investors look ahead to U.S. inflation data - CNBC",
+"description": "Europe markets fluctuated as global growth concerns dominate sentiment and investors look ahead to Thursday's inflation data out of the U.S.",
+"url": "https://www.cnbc.com/2022/10/12/european-markets-open-to-close-stocks-data-earnings-and-news.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/107119276-1663256335312-gettyimages-1243250960-FRANCE_STOCKS.jpeg?v=1665548350&w=1920&h=1080",
+"publishedAt": "2022-10-12T07:25:00Z",
+"content": "European markets are heading for a lower open on Wednesday with global growth concerns dominating sentiment and investors looking ahead to Thursday's inflation data out of the U.S.\r\nThe U.K.'s FTSE i… [+905 chars]"
+},
+-{
+-"source": {
+"id": "business-insider",
+"name": "Business Insider"
+},
+"author": "William Antonelli, Sarah Saril, Antonio Villas-Boas",
+"title": "LIVE: 100+ of the best deals to score during Amazon's Prime Day October sale before it ends tonight - Business Insider",
+"description": "It's the last day of Amazon's Prime Early Access Sale, and we're keeping track of the best deals until time runs out. Act fast and get discounts on Apple Macs, Peloton bikes, and much more.",
+"url": "https://www.businessinsider.com/guides/deals/amazon-prime-day-live-deals-early-access-sale-2022-10-12",
+"urlToImage": "https://i.insider.com/63442cfaca56b80019f32a88?width=1200&format=jpeg",
+"publishedAt": "2022-10-12T07:13:00Z",
+"content": "Sign up for Insider Reviews' weekly newsletter for more buying advice and great deals.\r\nYou can purchase logo and accolade licensing to this story here.\r\nDisclosure: Written and researched by the Ins… [+440 chars]"
+},
+-{
+-"source": {
+"id": "reuters",
+"name": "Reuters"
+},
+"author": null,
+"title": "U.S. scrambles to prevent export curbs on China chips from disrupting supply chain - Reuters",
+"description": "The U.S. is scrambling to tackle unintended consequences of its new export curbs on China's chip industry that could inadvertently harm the semiconductor supply chain, people familiar with the matter said.",
+"url": "https://www.reuters.com/technology/us-gives-reprieve-least-two-non-chinese-chipmakers-china-export-curbs-sources-2022-10-12/",
+"urlToImage": "https://www.reuters.com/resizer/Oh8HYyRte3RRQ3wwt8W1EaXJGa0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/73ES4CI5ZJOLJDLNY7P24RENTE.jpg",
+"publishedAt": "2022-10-12T06:14:00Z",
+"content": "OAKLAND, Calif./NEW YORK Oct 11 (Reuters) - The U.S. is scrambling to tackle unintended consequences of its new export curbs on China's chip industry that could inadvertently harm the semiconductor s… [+2995 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "Elliot Smith, Abigail Ng",
+"title": "British pound choppy as Bank of England reiterates Friday bond-buying deadline - CNBC",
+"description": "Sterling recovered slightly after a Financial Times report said the Bank of England has privately signaled a willingness to extend its emergency bond buying.",
+"url": "https://www.cnbc.com/2022/10/12/british-pound-bank-of-england-bond-purchases-andrew-bailey.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/106589975-1592986837409gettyimages-1220646243.jpeg?v=1665553014&w=1920&h=1080",
+"publishedAt": "2022-10-12T05:36:54Z",
+"content": "In this photo illustration, the British pound is seen displayed.\r\nThe British pound whipsawed on Wednesday morning amid mixed messages about the end of the Bank of England's emergency bond-buying pac… [+3138 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "Anmar Frangoul",
+"title": "Green hydrogen corridor aims to harness Spanish sunshine and decarbonize Europe's industrial north - CNBC",
+"description": "The European Commission wants 40 gigawatts of renewable hydrogen electrolyzers to be installed in the EU by 2030.",
+"url": "https://www.cnbc.com/2022/10/12/green-hydrogen-project-aims-to-decarbonize-europes-industrial-north.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/107132460-1665492386990-gettyimages-564337537-c4e55e9d-1ed5-4904-a89f-69bef73a3696.jpeg?v=1665551647&w=1920&h=1080",
+"publishedAt": "2022-10-12T05:14:07Z",
+"content": "Madrid-headquartered energy firm Cepsa said it would work with the Port of Rotterdam to develop \"the first green hydrogen corridor between southern and northern Europe,\" in the latest sign of how the… [+3596 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CoinDesk"
+},
+"author": "Sam Reynolds",
+"title": "Mango Markets Hacker Provides Ultimatum: 'Repay Bad Debt' - CoinDesk",
+"description": "Hacker proposes to send back stolen MSOL, SOL, and MNGO if Mango Markets promises to pay back bad debt using USDC available in its treasury.",
+"url": "https://www.coindesk.com/markets/2022/10/12/mango-markets-hacker-provides-ultimatum-repay-bad-debt/",
+"urlToImage": "https://www.coindesk.com/resizer/3XmQukkrE8VIqoVyZHNWwjXWG3E=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/SU2FKXBABZHNHBPAJSAFWUZ7CE.jpg",
+"publishedAt": "2022-10-12T03:40:00Z",
+"content": "Please note that ourprivacy policy,terms of use,cookies, anddo not sell my personal informationhas been updated.\r\nThe leader in news and information on cryptocurrency, digital assets and the future o… [+538 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "YouTube"
+},
+"author": null,
+"title": "Chinese two-seater 'flying car' makes first public flight in Dubai - South China Morning Post",
+"description": null,
+"url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhUhzk8lCtL4",
+"urlToImage": null,
+"publishedAt": "2022-10-12T03:04:43Z",
+"content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+},
+-{
+-"source": {
+"id": null,
+"name": "Benzinga"
+},
+"author": "Shivdeep Dhaliwal",
+"title": "Dogecoin Gains Outshine Bitcoin, Ethereum: Analyst Says Apex Crypto Set For 'Major Rally' Once This Happe - Benzinga",
+"description": "The two largest coins were seen trading marginally higher on Tuesday evening as the global cryptocurrency market cap rose 0.3% to $921.2 billion at 9:10 p.m. EDT.",
+"url": "https://www.benzinga.com/markets/cryptocurrency/22/10/29229007/dogecoin-gains-outshine-bitcoin-ethereum-analyst-says-anchored-apex-coin-has-supportive-lo",
+"urlToImage": "https://cdn.benzinga.com/files/images/story/2022/10/11/shutterstock_1965542140.jpg?width=1200&height=800&fit=crop",
+"publishedAt": "2022-10-12T02:40:08Z",
+"content": "The two largest coins were seen trading marginally higher on Tuesday evening as the global cryptocurrency market cap rose 0.3% to $921.2 billion at 9:10 p.m. EDT.\r\n<table>Price Performance Of Major C… [+4675 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Benzinga"
+},
+"author": "Shivdeep Dhaliwal",
+"title": "Elon Musk Turns 'Perfume Salesman,' Says Will Take Dogecoin For Upcoming 'Omnigender' Burnt Hair Fragranc - Benzinga",
+"description": "Tesla Inc (NASDAQ: TSLA) CEO Elon Musk was seen touting a $100 bottle of perfume on Twitter Tuesday evening in his new role as “perfume salesman\" and said Dogecoin (CRYPTO:",
+"url": "https://www.benzinga.com/news/22/10/29228760/elon-musk-turns-successful-perfume-salesman-touts-omnigender-fragrance-for-the-boring-company",
+"urlToImage": "https://cdn.benzinga.com/files/images/story/2022/10/11/elon_musk_01.jpeg?width=1200&height=800&fit=crop",
+"publishedAt": "2022-10-12T01:41:04Z",
+"content": "Tesla IncTSLA CEOElon Musk was seen touting a $100 bottle of perfume on Twitter Tuesday evening in his new role as perfume salesman\" and said DogecoinDOGE/USD payments would be accepted for the produ… [+1612 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Dayton Daily News"
+},
+"author": "Thomas Gnau",
+"title": "OHIO’S BIG WIN: Honda’s new $4.4B electric battery plant to bring 2,500+ jobs about 50 minutes from Dayton - Dayton Daily News",
+"description": "Honda unveils plans for EV battery factory, retooling of existing auto production",
+"url": "https://www.daytondailynews.com/local/ohios-big-win-hondas-new-44b-electric-battery-plant-to-bring-2500-jobs-about-50-minutes-from-dayton/T2TJIMFOEFBIDBWC2RW44RWHYE/",
+"urlToImage": "https://www.daytondailynews.com/resizer/UQs4419dTvfplbRysPJKfsPe-jQ=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/coxohio/KVILCDBVVRBMDBQOEWZ3NAJOII.jpg",
+"publishedAt": "2022-10-12T01:08:28Z",
+"content": "Our operations here will play a key role as a new EV hub, Bob Nelson, executive vice president of American Honda Motor Co. Inc., said Tuesday at the Ohio Statehouse.\r\nExploreSIGN UP HERE: Get the lat… [+4776 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "YouTube"
+},
+"author": null,
+"title": "'Decimated' chip stocks closing in on bottom, suggests top analyst - CNBC Television",
+"description": null,
+"url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXFlLaMqdZTM",
+"urlToImage": null,
+"publishedAt": "2022-10-12T00:53:01Z",
+"content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more"
+},
+-{
+-"source": {
+"id": null,
+"name": "YouTube"
+},
+"author": null,
+"title": "'Fast Money' traders respond to Yellen's remarks on fiscal policy - CNBC Television",
+"description": null,
+"url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DteNZpRYCgpY",
+"urlToImage": null,
+"publishedAt": "2022-10-12T00:52:12Z",
+"content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+},
+-{
+-"source": {
+"id": null,
+"name": "YouTube"
+},
+"author": null,
+"title": "Mester: Federal Reserve Should Stick to Balance Sheet Runoff Plan - Bloomberg Markets and Finance",
+"description": "Federal Reserve Bank of Cleveland President Loretta Mester discusses the central bank's policy and the outlook for the US economy. Earlier, she said in a spe...",
+"url": "https://www.youtube.com/watch?v=OUu-DdOaUDU",
+"urlToImage": "https://i.ytimg.com/vi/OUu-DdOaUDU/hqdefault.jpg",
+"publishedAt": "2022-10-12T00:43:57Z",
+"content": null
+},
+-{
+-"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "Ganesh Rao",
+"title": "It's too early to buy the dip, investor says, naming 8 stocks to buy when the time is right - CNBC",
+"description": "Fund manager John Ricciardi says the bear market bottom is likely some way off.",
+"url": "https://www.cnbc.com/2022/10/12/its-too-early-to-buy-the-dip-investor-says-naming-8-stocks-to-buy-when-the-time-is-right.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/101092343-124383931.jpg?v=1665531132&w=1920&h=1080",
+"publishedAt": "2022-10-11T23:32:12Z",
+"content": null
+},
+-{
+-"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "Krystal Hur",
+"title": "Cramer's lightning round: Service Corporation International is a good stock to own - CNBC",
+"description": "\"Mad Money\" host Jim Cramer rings the lightning round bell, which means he's giving his answers to callers' stock questions at rapid speed.",
+"url": "https://www.cnbc.com/2022/10/11/cramers-lightning-round-service-corporation-international-is-a-good-stock-to-own.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/102086255-mad-money-lightning.jpg?v=1665529564&w=1920&h=1080",
+"publishedAt": "2022-10-11T23:06:04Z",
+"content": "MGM Resorts International: \"I don't really care for that group, but you know what, I think anything can bounce in that business.\"\r\nTake-Two Interactive Software Inc: \"I don't think that group is doin… [+505 chars]"
+},
+-{
+-"source": {
+"id": "reuters",
+"name": "Reuters"
+},
+"author": null,
+"title": "France orders some fuel staff back to work to tackle refineries strike - Reuters",
+"description": "The French government on Tuesday said it would requisition staff at some petrol depots as it battles to secure petrol supplies following weeks-long strikes, putting it on a collision course with the hardline CGT union as social tensions rise.",
+"url": "https://www.reuters.com/business/energy/french-government-ready-intervene-lift-refineries-blockade-ministers-2022-10-11/",
+"urlToImage": "https://www.reuters.com/resizer/xbaw55buzSJrG7tDL4z7aK2HRb4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HIDASCWXFJN27LLM4YJFHKCEMY.jpg",
+"publishedAt": "2022-10-11T22:59:39Z",
+"content": "PARIS, Oct 11 (Reuters) - The French government on Tuesday said it would requisition staff at some petrol depots as it battles to secure petrol supplies following weeks-long strikes, putting it on a … [+4849 chars]"
+}
+]
+}
